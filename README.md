@@ -3,7 +3,7 @@
   🚀 Passionate Information Technology Student | 💡 Tech Enthusiast | 🌎 Open Source Contributor
 </p>
 
-![Banner](https://marketplace.canva.com/EAFsxtB6cxM/2/0/1600w/canva-blue-night-sky-cute-whale-desktop-wallpaper-Z3o7FZeI-Ms.jpg) <!-- Optional banner image -->
+![Banner]([https://marketplace.canva.com/EAFsxtB6cxM/2/0/1600w/canva-blue-night-sky-cute-whale-desktop-wallpaper-Z3o7FZeI-Ms.jpg](https://t4.ftcdn.net/jpg/04/17/28/93/360_F_417289346_hrs0D4Lo8dSv3aWDqkQpRB0U9PbtFX6n.jpg)) <!-- Optional banner image -->
 
 ---
 
