@@ -3,7 +3,7 @@
   🚀 Passionate Information Technology Student | 💡 Tech Enthusiast | 🌎 Open Source Contributor
 </p>
 
-![Banner](https://t4.ftcdn.net/jpg/04/17/28/93/360_F_417289346_hrs0D4Lo8dSv3aWDqkQpRB0U9PbtFX6n.jpg) <!-- Optional banner image -->
+![Banner](https://t3.ftcdn.net/jpg/04/67/84/44/360_F_467844437_GcMWY8YN46bSzBfKdWpFGn9xkZaECc76.jpg) <!-- Optional banner image -->
 
 ---
 
