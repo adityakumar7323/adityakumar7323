@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi, I'm [Your Name]!</h1>
+<h1 align="center">👋 Hi, I'm Aditya Bhagat!</h1>
 <p align="center">
-  🚀 Passionate [Your Engineering Field] Student | 💡 Tech Enthusiast | 🌎 Open Source Contributor
+  🚀 Passionate Information Technology Student | 💡 Tech Enthusiast | 🌎 Open Source Contributor
 </p>
 
 ![Banner](https://your-banner-image-url.com) <!-- Optional banner image -->
@@ -8,13 +8,8 @@
 ---
 
 ### 🛠️ **About Me**  
-- 🎓 **Currently pursuing**: [Your Degree] in [Your University]  
-- 💡 **Passionate about**: [Your Interests: AI, Web Dev, IoT, etc.]  
-- 🔭 **Working on**: [Current Project or Research Topic]  
-- 🌱 **Learning**: [Latest Technology or Framework]  
-- 👯 **Looking to collaborate** on: [Your Preferred Type of Projects]  
-- 🎯 **Goal for this year**: [Your Goal, e.g., Contribute to Open Source]  
-- ⚡ **Fun fact**: [Something Cool About You]  
+- 🎓 **Currently pursuing**: [BTECH-IT] in [CHANDIGARH ENGINEERING COLLEGE]  
+- 💡 **Passionate about**: [Your Interests: AI, Web Dev, etc.]  
 
 ---
 
