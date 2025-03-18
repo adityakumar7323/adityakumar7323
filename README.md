@@ -9,7 +9,7 @@
 
 ### 🛠️ **About Me**  
 - 🎓 **Currently pursuing**: [BTECH-IT] in [CHANDIGARH ENGINEERING COLLEGE]  
-- 💡 **Passionate about**: [Your Interests: AI, Web Dev, etc.]  
+- 💡 **Passionate about**:  AI, Web Dev, etc.  
 
 ---
 
