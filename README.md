@@ -1,21 +1,47 @@
-## 📊 GitHub Stats & Activity
-
-### 🔥 Streak Stats
+<h1 align="center">👋 Hi, I'm Aditya Bhagat!</h1>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=adityakumar7323&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  🚀 Passionate Information Technology Student | 💡 Tech Enthusiast | 🌎 Open Source Contributor
 </p>
 
-### 📈 GitHub Stats
+![Banner](https://t3.ftcdn.net/jpg/04/67/84/44/360_F_467844437_GcMWY8YN46bSzBfKdWpFGn9xkZaECc76.jpg) <!-- Optional banner image -->
+
+---
+
+### 🛠️ **About Me**  
+- 🎓 **Currently pursuing**: [BTECH-IT] in [CHANDIGARH ENGINEERING COLLEGE]  
+- 💡 **Passionate about**:  AI, Web Dev, etc.  
+
+---
+
+### 🚀 **Tech Stack & Tools**  
+
+#### 🌐 Languages & Frameworks:  
+![Languages](https://skillicons.dev/icons?i=python,cpp,java,js,html,css,typescript)  
+![Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,tensorflow,flask,django)  
+
+#### ⚙️ Tools & Platforms:  
+![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,arduino,figma)  
+
+---
+
+### 📊 **GitHub Stats & Activity**  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityakumar7323&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-### 📚 Most Used Languages
+---
+
+### 🤝 **Let's Connect!**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumar7323&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://www.linkedin.com/in/adityabhagat22/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white"></a>
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityakumar7323&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
+---
+
+🔥 *Thanks for stopping by! Feel free to check out my projects and connect!* 🚀  
